@@ -1,1 +1,2 @@
-# Yatzy_Gruppen_Backup_2
+# YatzyGruppen_2
+Group project do-over
